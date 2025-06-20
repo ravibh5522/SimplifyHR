@@ -1,0 +1,15 @@
+[theme]
+# The red color you requested
+primaryColor="#FFFFFF"
+backgroundColor="#d72638"
+secondaryBackgroundColor="#A41D2C" # A slightly darker red for sidebar/widgets
+
+# White text color
+textColor="#FFFFFF"
+
+# Font
+font="sans serif"
+
+[server]
+# This can help if you run into cross-origin issues, though usually not needed for this setup
+# enableCORS = false
